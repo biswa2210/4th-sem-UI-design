@@ -16,5 +16,11 @@ I have made to make my web page user friendly and to give a compact look.
     ├── images
     └── index.html
 ```
-# 4th-sem-UI-design
+## Screenshots
+<div align="center">
+<a href="ui1.PNG"><img src="ui1.PNG" width="400" height= "250"></a> <a href="ui2.PNG"><img src="ui2.PNG" width="400" height= "250"></a>
+    
+<a href="ui3.PNG"><img src="ui3.PNG" width="400" height= "250"></a> <a href="ui4.PNG"><img src="ui4.PNG" width="400" height= "250"></a>
+</div>
+# Making
 I have made this using HTML5, CSS3. It is fully responsive.
