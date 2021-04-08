@@ -7,5 +7,14 @@ This is a UI design of a web page of a website. It is a part of my website. It c
 ## LINK : https://biswa2210.github.io/4th-sem-UI-design/ 
 ## Purpose
 I have made to make my web page user friendly and to give a compact look.
+## Folder Structure
+```bash
+4th-sem-UI
+    ├── bgmusic
+    ├── css
+    |    └── style.css
+    ├── images
+    └── index.html
+```
 # 4th-sem-UI-design
 I have made this using HTML5, CSS3. It is fully responsive.
