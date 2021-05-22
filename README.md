@@ -1,4 +1,4 @@
-# 4TH-SEM-WEBPAGE-UI-DESIGN :star_struck:
+# 4TH-SEM-WEBPAGE-UI-DESIGN :star_struck: :sunglasses: :computer: :open_file_folder:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) 
 
@@ -11,14 +11,23 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
+
 This is a UI design of a web page of a website. It is a part of my website. It contains all subjects of 4 th semester in 2 nd year. It contains 1st term, 2nd term, 3rd term area. Basically it shows the design of a web page in this website.
+
 ## LINK : :point_right: https://biswa2210.github.io/4th-sem-UI-design/
+
 ## LINK OF FULL WEBSITE: :point_right: https://uemk-btech-cs.000webhostapp.com/
+
 ## Purpose :point_down:
+
 I have made to make my web page user friendly and to give a compact look.
+
 ## Importance :point_down:
+
 It is important to set a user friendly user interface in a website.
+
 ## Folder Structure :point_down:
+
 ```bash
 4th-sem-UI
     ├── bgmusic
@@ -28,8 +37,11 @@ It is important to set a user friendly user interface in a website.
     └── index.html
 ```
 ## Making :point_down:
+
 I have created this using HTML5 and CSS3. It is fully responsive.
+
 ## Screenshots :point_down: 
+
 <div align="center">
 <a href="ui1.PNG"><img src="ui1.PNG" width="400" height= "250"></a> <a href="ui2.PNG"><img src="ui2.PNG" width="400" height= "250"></a>
     
